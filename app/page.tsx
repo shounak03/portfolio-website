@@ -1,5 +1,5 @@
 import AboutSection from "@/components/About";
-import Grid from "@/components/Grid";
+
 import Hero from "@/components/Hero";
 import { FloatingNav } from "@/components/ui/floating-navbar";
 
